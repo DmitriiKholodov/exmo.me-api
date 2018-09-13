@@ -37,8 +37,8 @@ exmo.currency = function currency(){
 	return getData(url)
 } // example - https://api.exmo.com/v1/currency
 
-var a = function a(a,b) {
+let v = function a(a,b) {
 	return a + b
 }
 
-export default { a }
+export default { v };

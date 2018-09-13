@@ -1,8 +1,8 @@
 'use strict'
 
-import a from './exmo-api';
+import v from './exmo-api';
 
-let f = a(3,5);
-
-console.log("test");
+let f = v(3,5)
+alert("asd")
+console.log(f);
 
