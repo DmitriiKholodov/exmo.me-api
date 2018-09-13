@@ -1,2 +1,2 @@
-# wex.nz-javascript-api
-getting data from public wex.nz api to your project
+# exmo.me-api javascript
+getting data from public exmo.me api to your project
